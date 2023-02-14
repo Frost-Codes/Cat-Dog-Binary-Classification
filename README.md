@@ -1,2 +1,5 @@
-# Cat-Dog-Binary-Classification
-A Deep Learning Model that classifies Cat and Dog images
+🐱‍🏍✨Cat Dog Image Classification✨🐱‍🏍
+
+🐍Python Project🐍
+
+📌Pre trainned model that uses cats and dog images to make predictions
